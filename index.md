@@ -15,3 +15,6 @@ As Grace Hopper said:
 
 > I`ve always been more interested
 > in the future than in the past.
+
+
+<img src="https://i1.wp.com/kirpal-sagar.org/wp-content/uploads/2019/03/1280776.jpg?fit=1030%2C618&ssl=1"/>
