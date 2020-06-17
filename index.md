@@ -10,3 +10,8 @@ Add a description of your character (30 - 50 words) to the index.md file underne
 * Unordered List part 1
 * Unordered List part 2
 * Unordered List part 3
+
+As Grace Hopper said:
+
+> I`ve always been more interested
+> in the future than in the past.
